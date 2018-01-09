@@ -20,7 +20,7 @@
 
 EXTERN_C IMAGE_DOS_HEADER __ImageBase;
 
-#define IID "RCT.Lego_nxt_robot_module_v100"
+#define IID "RCT.Lego_nxt_robot_module_v101"
 
 const unsigned int COUNT_LEGO_FUNCTIONS = 34;
 const unsigned int COUNT_AXIS = 9;
